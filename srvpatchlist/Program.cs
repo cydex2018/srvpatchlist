@@ -1,0 +1,5 @@
+﻿namespace srvpatchlist;
+
+class Program
+{
+}
